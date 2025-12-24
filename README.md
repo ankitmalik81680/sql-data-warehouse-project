@@ -8,6 +8,8 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 In this project I implemented a modern data warehouse using the Medallion Architecture, effectively organizing data into bronze,
 silver, and gold layers.
+
+
 As well as Engineered fact and dimension tables utilizing a star schema architecture, optimized for analytical queries.
 
 ---
