@@ -112,7 +112,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 
----
+
 
 
 ### 🌟 About Me
@@ -136,9 +136,9 @@ Teaming up with smart people to solve real puzzles.
 
 ----
 
-Let's stay in touch! Feel free to connect with me on Linkedin:
+##### Let's stay in touch! Feel free to connect with me on Linkedin:
 
-www.linkedin.com/in/ankitmalik81680
+#### www.linkedin.com/in/ankitmalik81680
 
 
 
