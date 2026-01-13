@@ -134,7 +134,7 @@ Making sure data stays trustworthy, from source to dashboard.
 
 Teaming up with smart people to solve real puzzles.
 
-
+----
 
 Let's stay in touch! Feel free to connect with me on Linkedin:
 
