@@ -24,7 +24,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 ## 🏗️ How It’s Organized: The Medallion Layers
 
 Imagine you’re panning for gold:
----
+
 
 ### Bronze Layer — The Raw Ore
 
@@ -34,7 +34,7 @@ Like scribbles in a lab notebook: sometimes messy, but always true to the source
 
 In this project: CSV files → SQL Server, as-is.
 
----
+
 
 ### Silver Layer — Refining the Ingots
 
@@ -44,7 +44,7 @@ Remove the dirt, fix what’s broken, and put everything in the same “language
 
 Ready for the next step? You bet.
 
----
+
 ### Gold Layer — The Polished Gems
 Here’s where we shape the data into something useful.
 
@@ -97,14 +97,15 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
+---
 ## 🌟 About Me
 
 Hello! I’m Ankit Malik.
 I like to build data pipelines so that clean, useful information flows where it’s needed.
 I transform, organize, and protect data so others can ask great questions and get clear answers.
+---
 
-🚀 What I Do:
+### 🚀 What I Do:
 
 Designing systems that handle data at scale.
 
