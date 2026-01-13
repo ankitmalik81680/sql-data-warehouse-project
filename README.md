@@ -1,6 +1,6 @@
 # A Curious Adventure in Data: Warehouse & Analytics Project
 
-##✨ Welcome, Fellow Explorer!
+## ✨ Welcome, Fellow Explorer!
 
 So you want to look at data, eh? Not just look at it—really understand it!
 It’s like nature’s own puzzle: raw, messy numbers over here… clean, shining insights over there.
