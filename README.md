@@ -26,7 +26,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 Imagine you’re panning for gold:
 ---
 
-###Bronze Layer — The Raw Ore
+### Bronze Layer — The Raw Ore
 
 Here’s where the data lands exactly as it comes—no polish, no changes.
 
@@ -36,7 +36,7 @@ In this project: CSV files → SQL Server, as-is.
 
 ---
 
-###Silver Layer — Refining the Ingots
+### Silver Layer — Refining the Ingots
 
 Now we clean, straighten, and make sense of things.
 
@@ -45,7 +45,7 @@ Remove the dirt, fix what’s broken, and put everything in the same “language
 Ready for the next step? You bet.
 
 ---
-###Gold Layer — The Polished Gems
+### Gold Layer — The Polished Gems
 Here’s where we shape the data into something useful.
 
 I built a star schema—like constellations! A bright fact table in the middle, dimension tables sparkling around it.
@@ -100,14 +100,21 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Ankit Malik**. I’m an Data Engineer...!!!
+Hello! I’m Ankit Malik.
+I like to build data pipelines so that clean, useful information flows where it’s needed.
+I transform, organize, and protect data so others can ask great questions and get clear answers.
 
 🚀 What I Do:
 
-Design, develop, and deploy data pipelines to efficiently handle large volumes of data.
-Implement data transformation and aggregation processes to support analytics and reporting.
-Ensure data quality, integrity, and security across various data sources and platforms.
-Collaborate with cross-functional teams to understand data requirements and deliver robust solutions.
+Designing systems that handle data at scale.
+
+Turning raw data into structured insight.
+
+Making sure data stays trustworthy, from source to dashboard.
+
+Teaming up with smart people to solve real puzzles.
+
+---
 
 Let's stay in touch! Feel free to connect with me on Linkedin:
 
