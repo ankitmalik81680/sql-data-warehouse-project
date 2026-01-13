@@ -66,7 +66,7 @@ This project involves:
 
 ---
 
-## Project Requirements:- 🚀 The Mission (If You Choose to Accept It)
+##  🚀 The Mission (If You Choose to Accept It)
 
 ### Part 1: Building the Workshop (Data Engineering)
 
