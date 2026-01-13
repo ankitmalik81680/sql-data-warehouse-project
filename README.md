@@ -1,6 +1,6 @@
 # A Curious Adventure in Data: Warehouse & Analytics Project
 
-## ✨ Welcome, Fellow Explorer!
+### ✨ Welcome, Fellow Explorer!
 
 So you want to look at data, eh? Not just look at it—really understand it!
 It’s like nature’s own puzzle: raw, messy numbers over here… clean, shining insights over there.
@@ -55,7 +55,7 @@ Now the business can ask questions, and the data answers.
 ---
 
 
-##📖 What’s Actually in Here?
+## 📖 What’s Actually in Here?
 
 This project involves:
 
@@ -81,7 +81,7 @@ This project involves:
 **Documentation**: So you don’t have to guess how the gears turn.
 
 
-
+---
 
 
 ## Part 2: Discovering Patterns (Data Analysis)
@@ -94,7 +94,7 @@ This project involves:
 
 ---
 
-#### BI: Analytics & Reporting (Data Analysis)
+### BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
@@ -106,7 +106,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## 🛡️ License
+### 🛡️ License
 
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
@@ -115,14 +115,14 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ---
 
 
-## 🌟 About Me
+### 🌟 About Me
 
 Hello! I’m Ankit Malik.
 I like to build data pipelines so that clean, useful information flows where it’s needed.
 I transform, organize, and protect data so others can ask great questions and get clear answers.
 
 
----
+
 
 ### 🚀 What I Do:
 
@@ -134,7 +134,7 @@ Making sure data stays trustworthy, from source to dashboard.
 
 Teaming up with smart people to solve real puzzles.
 
----
+
 
 Let's stay in touch! Feel free to connect with me on Linkedin:
 
